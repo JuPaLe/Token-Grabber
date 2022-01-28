@@ -4,7 +4,7 @@
 
 ## Table of Content
 - [Login Showcase](https://github.com/JuPaLe/Token-Grabber#login)
-- [Password Changed Showcase](https://github.com/Token-Grabber#Changed Password)
+- [Password Changed Showcase](https://github.com/Token-Grabber#Changed-Password)
 - [Key Features](https://github.com/Token-Grabber#features)
 - [Configuration](https://github.com/Token-Grabber#configuration)
 
