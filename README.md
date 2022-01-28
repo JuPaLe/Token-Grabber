@@ -3,13 +3,10 @@
 #### ⚠️ Proof Of Concept && Educational Purpose Only ⚠️
 
 ## Table of Content
-- [Read This](https://github.com/bytixo/PirateStealer#read-this-please)
-- [Support Server](https://github.com/bytixo/PirateStealer#need-support-)
-- [Donate](https://github.com/bytixo/PirateStealer#donate)
-- [Login Showcase](https://github.com/bytixo/PirateStealer#login)
-- [Password Changed Showcase](https://github.com/bytixo/PirateStealer#changed-password)
-- [Key Features](https://github.com/bytixo/PirateStealer#features)
-- [Configuration](https://github.com/bytixo/PirateStealer#configuration)
+- [Login Showcase](https://github.com/JuPaLe/Token-Grabber#login)
+- [Password Changed Showcase](https://github.com/Token-Grabber#changed-password)
+- [Key Features](https://github.com/Token-Grabber#features)
+- [Configuration](https://github.com/Token-Grabber#configuration)
 
 ### Login
 ![Login](https://media.discordapp.net/attachments/870608841623085100/901462244527861800/unknown.png?width=454&height=616)
