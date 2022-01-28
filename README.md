@@ -4,13 +4,13 @@
 
 ## Table of Content
 - [Login Showcase](https://github.com/JuPaLe/Token-Grabber#login)
-- [Password Changed Showcase](https://github.com/Token-Grabber#Changed-Password)
+- [Password Changed Showcase](https://github.com/Token-Grabber#changedpassword)
 - [Key Features](https://github.com/Token-Grabber#features)
 - [Configuration](https://github.com/Token-Grabber#configuration)
 
 ### Login
 ![Login](https://media.discordapp.net/attachments/870608841623085100/901462244527861800/unknown.png?width=454&height=616)
-### Changed Password
+### ChangedPassword
 ![Password](https://media.discordapp.net/attachments/870608841623085100/901462254875193414/unknown.png?width=517&height=616)
 
 # Features
